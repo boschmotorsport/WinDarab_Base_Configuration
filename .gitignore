@@ -1,0 +1,37 @@
+#File Extensions
+*.exe
+*.gui
+*.dll
+*.bms*
+*.dat
+*.cmd
+*.tmp
+*.log
+*.chm
+*.chw
+*.pdf
+*.bin
+*.png
+*.bmp
+*.txt
+
+#Folders
+Config/Places
+Config/WDServer
+Data/
+Minidump/
+Plugins/
+Report/
+Samples/
+Template/
+
+#WinDarab Files To Exclude
+bandpass.ini
+desktop.ini
+FILTERS.ini
+highpass.ini
+lowpass.ini
+Reports.ini
+setting.ini
+stopband.ini
+Dump
